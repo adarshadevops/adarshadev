@@ -1,0 +1,5 @@
+this is the 3rd file with respect to git
+had challenges with the mouse
+unable to click the webpages
+problem solved by restarting the laptop
+not cleared by doing the shutdowning the laptop
