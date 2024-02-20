@@ -1,0 +1,2 @@
+sprint meeting2
+strange behaviour while using git bash
